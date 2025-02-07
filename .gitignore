@@ -7,6 +7,3 @@ node_modules/
 
 # Ignore database file
 db.json
-# git rm -r --cached node_modules/
-# git rm -r --cached .wwebjs_auth/
-# git rm -r --cached .wwebjs_cache/
