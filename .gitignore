@@ -1,0 +1,12 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore WhatsApp Web.js authentication and cache directories
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Ignore database file
+db.json
+# git rm -r --cached node_modules/
+# git rm -r --cached .wwebjs_auth/
+# git rm -r --cached .wwebjs_cache/
